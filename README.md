@@ -9,7 +9,7 @@ txt2img, img2img 지원
 # Usage
 1. pip install -r requirements.txt
 2. Discord Developer(https://discord.com/developers/applications)에서 봇 생성 후 `main.py`에 토큰 입력
-3. `util.py`에 openai 토큰 입력
+3. `utils.py`에 openai 토큰 입력
 4. 사용할 모델 `genimg.py`에 설정  
    SD모델, VAE, Lora 설정
    
