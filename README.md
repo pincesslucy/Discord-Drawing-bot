@@ -16,7 +16,7 @@ txt2img, img2img 지원
    - Huggingface 모델 사용할 경우:  
      Repo 이름 그대로 사용
      
-   - Civitai(https://civitai.com/)에서 받음 safetensor or ckpt file 사용할 경우:  
+   - Civitai(https://civitai.com/) 에서 받음 safetensor or ckpt file 사용할 경우:  
      1. SD모델
      https://github.com/huggingface/diffusers/blob/main/scripts/convert_original_stable_diffusion_to_diffusers.py 에서 코드 받아서 diffusers 형태로 변환
      ```bash
