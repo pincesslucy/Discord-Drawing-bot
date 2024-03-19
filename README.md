@@ -1,4 +1,4 @@
-# 디스코드 드로잉봇
+# 디스코드 드로잉봇  
 stable diffusion을 이용한 디스코드 그림 생성 봇.  
 txt2img, img2img 지원  
 ---
