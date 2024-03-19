@@ -23,3 +23,5 @@ vae/anime/config.json
 vae/anime/diffusion_pytorch_model.safetensors
 vae/ema/config.json
 vae/ema/diffusion_pytorch_model.safetensors
+convert_original_stable_diffusion_to_diffusers.py
+convert_vae_pt_to_diffusers.py
