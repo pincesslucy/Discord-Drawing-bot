@@ -2,8 +2,8 @@
 
 
 stable diffusion을 이용한 디스코드 그림 생성 봇.  
-txt2img, img2img 지원
-
+txt2img, img2img 지원  
+블로그 글: https://princesslucy.tistory.com/19
 
 ---
 # Usage
